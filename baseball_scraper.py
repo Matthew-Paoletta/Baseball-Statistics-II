@@ -499,7 +499,7 @@ class BaseballScraper:
 def main():
     """Main function to run the scraper"""
     # Configuration
-    YEARS_TO_SCRAPE = [2007]  # 2000-2022
+    YEARS_TO_SCRAPE = [2022]  # 2000-2022
     BASE_PATH = os.path.dirname(os.path.abspath(__file__))
     HEADLESS = True  # Set to False to see the browser in action
     MAX_TIME_PER_YEAR = 180  # 3 minutes max per year
