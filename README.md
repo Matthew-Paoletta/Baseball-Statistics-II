@@ -1,6 +1,6 @@
-# Baseball Statistics II
+# Postseason Performance Predictor
 
-Welcome to the **Baseball Statistics II** project—a data science initiative aimed at exploring and analyzing baseball statistics to uncover meaningful insights about players, teams, and historical trends. This repository showcases our analysis pipeline, including data preprocessing, applied methodologies, and key findings documented in the `Project_Documentation.ipynb` notebook.
+Welcome to the **Postseason Performance Predictor** project—a data science initiative aimed at exploring and analyzing baseball statistics to uncover meaningful insights about players, teams, and historical trends. This repository showcases our analysis pipeline, including data preprocessing, applied methodologies, and key findings documented in the `Project_Documentation.ipynb` notebook.
 
 ## Project Purpose
 The primary goal of this project is to leverage advanced statistical techniques and machine learning models to evaluate baseball performance metrics. By analyzing historical data from key datasets, this project uncovers patterns and makes predictions that could aid stakeholders like analysts, coaches, and enthusiasts.
@@ -57,4 +57,4 @@ For a detailed walkthrough of the project, including code and outputs, refer to 
 
 ---
 
-Thank you for exploring the **Baseball Statistics II** project! We welcome contributions, questions, and feedback. Feel free to open an issue or submit a pull request.
+Thank you for exploring the **Postseason Performance Predictor** project! We welcome contributions, questions, and feedback. Feel free to open an issue or submit a pull request.
